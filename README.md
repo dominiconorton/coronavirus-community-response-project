@@ -74,10 +74,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/IMG_0638.jpg" width="18%"></img> <img src="https://dominiconorton-images.s3-eu-west-1.amazonaws.com/Monique+Ho.jpeg" width="18%"></img> 
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Resources
 
 [Coronavirus Tech Handbook](https://coronavirustechhandbook.com) - "This handbook exists to provide a space where technologists, specialists, civic organisations and public & private institutions can collaborate to make a rapid and sophisticated response to the outbreak. "
