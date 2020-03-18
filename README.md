@@ -1,6 +1,6 @@
 # Coronavirus Community Response Project
 
-One Paragraph of project description goes here
+The Coronavirus Community Response Project is an open-source tool to connect vulnerable citizens with verified volunteers.
 
 ## Getting Started
 
