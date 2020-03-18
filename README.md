@@ -78,7 +78,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Resources
 
-[Coronavirus Tech Handbook](https://coronavirustechhandbook.com) - "This handbook exists to provide a space where technologists, specialists, civic organisations and public & private institutions can collaborate to make a rapid and sophisticated response to the outbreak. "
+[Coronavirus Tech Handbook](https://coronavirustechhandbook.com) 
+"This handbook exists to provide a space where technologists, specialists, civic organisations and public & private institutions can collaborate to make a rapid and sophisticated response to the outbreak. "
 
 ## License
 
