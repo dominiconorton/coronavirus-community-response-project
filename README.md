@@ -76,6 +76,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+## Resources
+
+[Coronavirus Tech Handbook](https://coronavirustechhandbook.com) - "This handbook exists to provide a space where technologists, specialists, civic organisations and public & private institutions can collaborate to make a rapid and sophisticated response to the outbreak. "
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
