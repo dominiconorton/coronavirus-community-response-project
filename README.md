@@ -2,17 +2,32 @@
 
 The Coronavirus Community Response Project is an open-source tool to connect vulnerable citizens with verified volunteers.
 
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Prerequisites](#prerequisites)
+   * [Installing](#installing)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Installation](#installation)
+   * [Testing](#testing)
+   * [Contributing](#contributing)
+   * [Versioning](#versioning)
+   * [Authors](#authors)
+   * [Resources](#resources)
+   * [License](#license)
+   * [Acknowledgments](#acknowledgments)
+<!--te-->
+
 ## Getting Started
 
 ### Prerequisites
 
 ### Installing
 
-## Running the tests
-
-### Break down into end to end tests
-
-### And coding style tests
+## Testing
 
 ## Deployment
 
