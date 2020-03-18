@@ -7,6 +7,7 @@ Table of contents
 
 <!--ts-->
    * [Table of contents](#table-of-contents)
+   * [Getting Started](#getting-started)
    * [Prerequisites](#prerequisites)
    * [Installing](#installing)
    * [Tests](#tests)
