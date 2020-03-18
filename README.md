@@ -35,7 +35,7 @@ Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-comm
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dominiconorton/coronavirus-community-response-project/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
