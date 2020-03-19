@@ -34,7 +34,7 @@ Table of contents
 
 ## Built With
 
-[Glide](https://go.glideapps.com/) . 
+[Glide](https://go.glideapps.com/)<br/>
 [Twilio Autopilot](https://www.twilio.com/autopilot)
 
 ## Contributing
