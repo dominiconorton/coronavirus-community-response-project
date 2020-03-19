@@ -7,8 +7,8 @@ const client = require('twilio')(accountSid, authToken);
 
 client.messages
   .create({
-     body: 'This is the ship that made the Kessel Run in fourteen parsecs?',
-     from: '+15017122661',
-     to: '+15558675310'
+     body: 'This is a coronavirus test bot',
+     from: '+441158241239',
+     to: '+447946058590'
    })
   .then(message => console.log(message.sid));
