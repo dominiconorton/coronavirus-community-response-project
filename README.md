@@ -34,6 +34,9 @@ Table of contents
 
 ## Built With
 
+[Glide](https://go.glideapps.com/)
+[Twilio Autopilot](https://www.twilio.com/autopilot)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/dominiconorton/coronavirus-community-response-project/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
